@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+//comment
 int main()
 {
     int a, b;
@@ -13,4 +13,6 @@ int main()
     cout << "a + b = " << c << endl;
     c = a - b;
     cout << "a - b = " << c << endl;
+    c = a * b;
+    cout << "a * b = " << c << endl;
 }
